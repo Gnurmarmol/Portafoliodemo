@@ -1,0 +1,29 @@
+.color_principal{
+    background: #80c4d4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6dd5ed, #7bb8c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #58a1b1, #5aa3b6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+
+.color_izquierdo{
+    background: #e045cc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #3eabd3, #51ace9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5c8f9e, #5185a5, #537794); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.color_derecho{
+    background: #5a4c9c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3c5a77, #6a5c92); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.principal_texto{
+    color: black;
+}
+
+}
